@@ -1,2 +1,4 @@
 # Helpful-Links
-https://learngitbranching.js.org/?locale=ru_RU - This is a Git training simulator
+
+#1 This is a Git training simulator:
+https://learngitbranching.js.org/?locale=ru_RU 
