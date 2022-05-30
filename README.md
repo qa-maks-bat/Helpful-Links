@@ -5,3 +5,6 @@ https://learngitbranching.js.org/?locale=ru_RU
 
 #2 There is a lot of information about GREP: 
 https://aidalinux.ru/w/Grep
+
+#3 There is an information about RM:
+https://russianblogs.com/article/20231291223/
