@@ -8,3 +8,6 @@ https://aidalinux.ru/w/Grep
 
 #3 There is an information about RM:
 https://russianblogs.com/article/20231291223/
+
+#4 Оболочка Bash — шпаргалка для начинающих
+https://tproger.ru/translations/bash-cheatsheet/
